@@ -1,1 +1,2 @@
-# generic-theory-what-is-entropy
+# generic-theory-what-is-entropy 
+Some readme content
