@@ -1,4 +1,3 @@
---- step ---
 Entropy is the amount of randomness available in a computer system. There are many ways in which entropy can be increased in a computer system - here are just a few:
 
 - Using operating system sources. Examples include the system time, keyboard strokes, and mouse movements.
@@ -8,4 +7,3 @@ Entropy is the amount of randomness available in a computer system. There are ma
 A lack of entropy is a cryptographic challenge for securing Internet of Things-enabled devices, because sensors and actuators used in real-world applications cannot access sources of randomness such as the ones listed above.
 
 
---- /step ---
